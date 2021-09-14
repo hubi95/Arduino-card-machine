@@ -11,3 +11,5 @@ I had on hand Arduino from another project (open source quadrocopter) and other 
 All I was missing was the code. I found online tutorials on how to program the Arduino and after a few days of building and experimenting, the machine was up and running.
 The machine was able to deal cards to several players, draw cards and sort the whole deck randomly.
 This was my first code I wrote in C!
+
+https://www.youtube.com/watch?v=IZuUappnoyc
